@@ -5,9 +5,8 @@ A full-stack web application that allows organizations to manage employees and t
 ![Dashboard Preview](https://via.placeholder.com/800x400?text=Employee+Portal+Dashboard)
 
 ## 🌐 Live Demo
-- **Frontend URL:** Coming Soon
-- **Backend URL:** Coming Soon
-
+- Frontend: https://employee-project-portal-six.vercel.app
+- Backend: https://employee-project-portal-production.up.railway.app
 ---
 
 ## 🛠️ Tech Stack
