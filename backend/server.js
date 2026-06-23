@@ -7,7 +7,11 @@ const app = express();
 // MIDDLEWARE
 // ============================================
 app.use(cors({
-  origin: 'http://localhost:3000',
+  origin: [
+    'http://localhost:3000',
+    'https://employee-project-portal-six.vercel.app',
+    'https://employee-project-portal-six.vercel.app/'
+  ],
   credentials: true,
 }));
 
